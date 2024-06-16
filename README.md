@@ -21,7 +21,8 @@ Chat Box Live is a real-time chat application that allows users to communicate w
 
 ## Video
 
-![video](./utils/video1235344758.mp4)
+https://github.com/Prabhat-kumar-11/chatboxlive/assets/115531333/9d7a27c2-48d9-4848-9ffc-5ca4ad049ffa
+
 
 ## Installation
 
